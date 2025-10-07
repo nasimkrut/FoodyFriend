@@ -1,5 +1,0 @@
-﻿python-telegram-bot>=20.3
-SQLAlchemy>=1.4
-asyncpg>=0.25.0
-python-dotenv>=1.0.0
-google-generative-ai>=0.1.0  # placeholder, фактическая версия пакета может отличаться
